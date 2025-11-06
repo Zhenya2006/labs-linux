@@ -1,0 +1,7 @@
+Package: countfiles
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Yevhen Tarasovych <mail.genya@gmail.com>
+Description: Simple bash script that counts regular files in /etc excluding directories and links.
