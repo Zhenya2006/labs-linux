@@ -22,4 +22,3 @@ install -m 755 %{_sourcedir}/count_files.sh %{buildroot}/usr/local/bin/count_fil
 
 %changelog
 * %(date +"%a %b %d %Y") Yevhen Tarasovych - 1.0-1
-- Initial RPM package
